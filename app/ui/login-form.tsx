@@ -1,3 +1,4 @@
+'use client'
 import { lusitana } from '@/app/ui/fonts';
 import { ArrowRightIcon } from '@heroicons/react/20/solid';
 import {
